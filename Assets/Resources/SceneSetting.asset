@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c2a744ab6e2cfa24e2ef51bbdee6c5a, type: 3}
+  m_Name: "SceneSetting"
+  m_EditorClassIdentifier: 
+  Height: 2048
+  Width: 1536
+  CameraAdjust: 12
+  FristLevelId: "1001"
+  RopeTexture: {fileID: 0}
+  WaterMaxCount: 500
+  WaterSpawnInterval: 0.01
+  waterForce: {x: 0, y: -1, z: 0}
+  ObjTypeDic:
+  - key: 0
+    EditorShowName: "\u6389\u843D\u677F"
+    ObjType: "Cube"
+  - key: 0
+    EditorShowName: "\u4F4E\u4E8E\u7EF3\u5B50"
+    ObjType: "Lower"
+  - key: 0
+    EditorShowName: "\u7403"
+    ObjType: "Circle"
+  - key: 0
+    EditorShowName: "\u4E09\u89D2\u5F62"
+    ObjType: "San"
+  - key: 0
+    EditorShowName: "\u5F39\u6027\u5757"
+    ObjType: "Eastic"
+  - key: 0
+    EditorShowName: "\u7070\u8272\u4E0D\u52A8\u5757"
+    ObjType: "Gray"
+  - key: 100
+    EditorShowName: "\u53CD\u8F6CX"
+    ObjType: "A"
+  - key: 0
+    EditorShowName: "\u7BB1\u5B50"
+    ObjType: "Box"
+  - key: 0
+    EditorShowName: "\u76AE\u7403"
+    ObjType: "Ball"
+  - key: 8
+    EditorShowName: "\u65CB\u8F6C\u6746"
+    ObjType: "Pole"
+  - key: 1
+    EditorShowName: "\u7FFB\u8F6C\u9E2D\u5B50"
+    ObjType: "Y"
+  - key: 100
+    EditorShowName: "\u624B\u6307"
+    ObjType: "Shou"

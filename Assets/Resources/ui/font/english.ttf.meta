@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fe3f05455386472da183600ad935de8e
+timeCreated: 1563270216
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 40
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "english"
+  fontNames:
+  - Asap
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+
+fengshan.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuifeng1
+  rotate: false
+  xy: 2, 141
+  size: 242, 316
+  orig: 242, 316
+  offset: 0, 0
+  index: -1
+chuifeng2
+  rotate: false
+  xy: 2, 2
+  size: 150, 137
+  orig: 150, 137
+  offset: 0, 0
+  index: -1

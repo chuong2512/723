@@ -1,0 +1,62 @@
+
+yanwu.png
+size: 128,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a0001
+  rotate: false
+  xy: 2, 331
+  size: 27, 327
+  orig: 27, 327
+  offset: 0, 0
+  index: -1
+a0002
+  rotate: false
+  xy: 31, 660
+  size: 27, 327
+  orig: 27, 327
+  offset: 0, 0
+  index: -1
+a0003
+  rotate: false
+  xy: 2, 2
+  size: 27, 327
+  orig: 27, 327
+  offset: 0, 0
+  index: -1
+a0004
+  rotate: false
+  xy: 31, 331
+  size: 27, 327
+  orig: 27, 327
+  offset: 0, 0
+  index: -1
+a0005
+  rotate: false
+  xy: 60, 660
+  size: 27, 327
+  orig: 27, 327
+  offset: 0, 0
+  index: -1
+a0006
+  rotate: false
+  xy: 31, 2
+  size: 27, 327
+  orig: 27, 327
+  offset: 0, 0
+  index: -1
+a0007
+  rotate: false
+  xy: 60, 331
+  size: 27, 327
+  orig: 27, 327
+  offset: 0, 0
+  index: -1
+a0008
+  rotate: false
+  xy: 2, 660
+  size: 27, 327
+  orig: 27, 327
+  offset: 0, 0
+  index: -1

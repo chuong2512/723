@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b0763511cad86b7e43ee011d5bdbda8, type: 3}
+  m_Name: "yazi_SkeletonData"
+  m_EditorClassIdentifier: 
+  atlasAssets:
+  - {fileID: 11400000, guid: 2b4ba0e3f17645baa686b9354f11daca, type: 2}
+  scale: 0.01
+  skeletonJSON: {fileID: 4900000, guid: 647ac9a17c6245aba23b935d0775593c, type: 3}
+  fromAnimation: []
+  toAnimation: []
+  duration: 
+  defaultMix: 0.2
+  controller: {fileID: 9100000, guid: 504d4d049b7a4b4784f5b9703e4b50ff, type: 2}

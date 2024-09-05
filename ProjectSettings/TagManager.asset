@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Water
+  - Balloon
+  - Rope
+  - FxTemporaire
+  - DynamicParticle
+  - Interactive
+  - LiquidCamera
+  - Bg
+  - MetaballPlane
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Box
+  - Serration
+  - NotPortal
+  - Portal
+  - BgUI
+  - DuckWater
+  - Rope
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: "Bg"
+    uniqueID: 696210145
+    locked: 0
+  - name: "Water"
+    uniqueID: 3728270587
+    locked: 0
+  - name: "Default"
+    uniqueID: 0
+    locked: 0
+  - name: "BaseLower"
+    uniqueID: 1396033277
+    locked: 0
+  - name: "Rope"
+    uniqueID: 1365816799
+    locked: 0
+  - name: "ItemHigher"
+    uniqueID: 2044153223
+    locked: 0
+  - name: "Man"
+    uniqueID: 3215919907
+    locked: 0
+  - name: "WaterUp"
+    uniqueID: 2824398357
+    locked: 0
+  - name: "Shadow"
+    uniqueID: 986519175
+    locked: 0
+  - name: "BaseHigher"
+    uniqueID: 2342109441
+    locked: 0
+  - name: "Portal"
+    uniqueID: 3870014409
+    locked: 0
