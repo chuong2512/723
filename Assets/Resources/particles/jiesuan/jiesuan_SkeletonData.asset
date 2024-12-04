@@ -3,20 +3,22 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5b0763511cad86b7e43ee011d5bdbda8, type: 3}
-  m_Name: "jiesuan_SkeletonData"
+  m_Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+  m_Name: jiesuan_SkeletonData
   m_EditorClassIdentifier: 
   atlasAssets:
   - {fileID: 11400000, guid: 7e4db0836fb042f1be0ce226a3a13c82, type: 2}
   scale: 0.01
   skeletonJSON: {fileID: 4900000, guid: d96fae6d8cbf4bcbadf5219c44c80b33, type: 3}
+  skeletonDataModifiers: []
   fromAnimation: []
   toAnimation: []
-  duration: 
+  duration: []
   defaultMix: 0.2
-  controller: {fileID: 9100000, guid: 205a1e54877b4081b9f1b8d7f48a241d, type: 2}
+  controller: {fileID: 0}
